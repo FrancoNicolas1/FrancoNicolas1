@@ -1,16 +1,14 @@
 ### Hi there 👋
-Hi 👋, I'm María Lucía Bidal
+Hi 👋, I'm Franco Hermosilla
 A passionate Full Stack developer from Argentina to 🌎
-🔭 My last big project was E-SOCIAL
+🔭 My last big project was Hash-TV
 
 🌱 I’m currently business and systems administration student.
 
-👨‍💻 All of my projects are available at https://github.com/mlbidal
+👨‍💻 All of my projects are available at https://github.com/FrancoNicolas1
 
-📫 How to reach me maluciabidal@gmail.com
+📫 How to reach me franconicolas2009@live.com.ar
 
 Connect with me:
-https://www.linkedin.com/in/juan-esteban-yancovich-39a000109/
+https://www.linkedin.com/in/franco-hermosilla-70420b1a9/
 
-Languages and Tools:
-babel css3 git html5 javascript nodejs postgresql bootstrap react redux sqlite typescript
