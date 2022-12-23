@@ -12,4 +12,3 @@ A passionate Full Stack developer from Argentina to 🌎
 Connect with me:
 https://www.linkedin.com/in/franco-hermosilla-70420b1a9/
 
-https://www.typescriptlang.org/
